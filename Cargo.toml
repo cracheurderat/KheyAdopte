@@ -1,0 +1,9 @@
+[package]
+name = "KheyPecho"
+version = "0.1.0"
+authors = ["Cracheur de rat <balancoireoui@gmail.com>"]
+
+[dependencies]
+reqwest = "0.6.0"
+hyper = "0.10.10"
+json = "0.11.6"
